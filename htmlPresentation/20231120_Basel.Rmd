@@ -375,7 +375,7 @@ possible definition:
 <br>
 <br>
 <br>
-`r Citet(bib, c("boeschenTechnikfolgenabschaetzungHandbuchFuer2021", "grunwaldTechnikfolgenabschaetzungEinfuehrung2022"))`; see [summary of methods for (prospective) TA](https://paulthagard.com/)
+`r Citet(bib, c("boeschenTechnikfolgenabschaetzungHandbuchFuer2021", "grunwaldTechnikfolgenabschaetzungEinfuehrung2022"))`; see [summary of methods for (prospective) TA](https://tinyurl.com/28a6j88w)
 
 
 
