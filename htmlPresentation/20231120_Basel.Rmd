@@ -1050,11 +1050,45 @@ identified 21 different ethical arguments regarding CETs
 
 ]
 
+
+<!-- *********** NEW SLIDE ************** -->
+---
+## the never published analysis: certainty and acceptability I
+
+relationship between the average values of acceptability (complete scale) and the average certainty in the evaluation of the SAI technology:
+
+<center>
+<img src="images/SAI_AccCertainty_I.jpg", height="310px">
+</center>
+
+
+* if only the linear relationship (red line) would have been considered (e.g. linear regression models) we would have concluded that less certainty in the evaluation leads to a stronger subjective rejection of the technology (slightly negative relationship)
+* visible in the quadratic relation (blue line) there are groups of people who report a high certainty and a low (top left corner) or high (top right corner) acceptability of SAI
+
+
+
+<!-- *********** NEW SLIDE ************** -->
+---
+## the never published analysis: certainty and acceptability II
+
+to identify these two groups of people we applied latent class analyses on the Acceptability scale and on three items measuring the perceived certainty of the overall evaluation of the SAI technology:
+
+<center>
+<img src="images/SAI_AccCertainty_II.jpg", height="350px">
+</center>
+
+
+* applying multiple t-tests with adjusted p-values (Bonferroni correction), we found significant mean differences on all included scales in the integrative model
+
+
+
+
+
 <!-- *********** NEW SLIDE ************** -->
 ---
 ## future projects
 
-...
+*to come :-)*
 
 
 
